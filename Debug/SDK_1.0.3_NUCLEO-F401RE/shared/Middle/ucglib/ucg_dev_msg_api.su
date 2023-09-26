@@ -1,0 +1,9 @@
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_msg_api.c:39:6:ucg_PowerDown	16	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_msg_api.c:48:11:ucg_PowerUp	24	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_msg_api.c:62:6:ucg_SetClipBox	16	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_msg_api.c:67:6:ucg_SetClipRange	32	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_msg_api.c:77:6:ucg_SetMaxClipRange	24	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_msg_api.c:90:6:ucg_GetDimension	16	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_msg_api.c:96:6:ucg_DrawPixelWithArg	16	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_msg_api.c:101:6:ucg_DrawL90FXWithArg	16	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_msg_api.c:120:6:ucg_DrawL90SEWithArg	16	static

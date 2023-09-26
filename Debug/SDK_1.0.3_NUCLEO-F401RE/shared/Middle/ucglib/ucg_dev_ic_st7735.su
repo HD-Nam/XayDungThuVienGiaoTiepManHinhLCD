@@ -1,0 +1,5 @@
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_ic_st7735.c:123:11:ucg_handle_st7735_l90fx	32	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_ic_st7735.c:167:11:ucg_handle_st7735_l90tc	40	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_ic_st7735.c:255:11:ucg_handle_st7735_l90se	40	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_ic_st7735.c:321:11:ucg_dev_ic_st7735_18	40	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_ic_st7735.c:375:11:ucg_ext_st7735_18	24	static

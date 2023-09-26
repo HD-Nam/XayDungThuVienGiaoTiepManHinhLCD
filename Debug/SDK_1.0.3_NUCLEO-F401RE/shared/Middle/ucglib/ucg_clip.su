@@ -1,0 +1,7 @@
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_clip.c:43:18:ucg_clip_is_x_visible	24	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_clip.c:56:18:ucg_clip_is_y_visible	24	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_clip.c:76:18:ucg_clip_intersection	32	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_clip.c:92:11:ucg_clip_is_pixel_visible	16	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_clip.c:107:11:ucg_clip_l90fx	32	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_clip.c:195:11:ucg_clip_l90tc	16	static
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_clip.c:241:11:ucg_clip_l90se	24	static

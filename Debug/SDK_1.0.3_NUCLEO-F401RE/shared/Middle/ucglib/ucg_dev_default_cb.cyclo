@@ -1,0 +1,6 @@
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_default_cb.c:44:11:ucg_dev_default_cb	3
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_default_cb.c:60:11:ucg_ext_none	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_default_cb.c:71:11:ucg_handle_l90fx	7
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_default_cb.c:101:11:ucg_handle_l90tc	9
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_default_cb.c:149:11:ucg_handle_l90bf	10
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_dev_default_cb.c:204:11:ucg_handle_l90se	9

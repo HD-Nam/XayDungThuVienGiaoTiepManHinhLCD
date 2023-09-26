@@ -1,0 +1,4 @@
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_scale.c:38:6:ucg_UndoScale	2
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_scale.c:52:6:ucg_scale_2x2_send_next_half_byte	13
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_scale.c:96:11:ucg_dev_scale2x2	13
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_scale.c:219:6:ucg_SetScale2x2	1

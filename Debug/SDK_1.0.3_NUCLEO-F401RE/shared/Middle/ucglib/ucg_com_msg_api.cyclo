@@ -1,0 +1,17 @@
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:38:9:ucg_com_template_cb	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:71:6:ucg_com_PowerDown	2
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:81:9:ucg_com_PowerUp	2
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:98:6:ucg_com_SetLineStatus	6
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:120:6:ucg_com_SetResetLineStatus	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:125:6:ucg_com_SetCSLineStatus	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:130:6:ucg_com_SetCDLineStatus	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:136:6:ucg_com_DelayMicroseconds	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:142:6:ucg_com_DelayMilliseconds	2
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:153:6:ucg_com_SendByte	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:159:6:ucg_com_SendRepeatByte	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:164:6:ucg_com_SendRepeat2Bytes	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:177:6:ucg_com_SendString	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:182:6:ucg_com_SendStringP	2
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:196:6:ucg_com_SendCmdDataSequence	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:298:13:ucg_com_SendCmdArg	2
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_com_msg_api.c:312:6:ucg_com_SendCmdSeq	14

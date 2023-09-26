@@ -1,0 +1,4 @@
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/sensor/lightsensor.c:50:1:LightSensor_Init	3
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/sensor/lightsensor.c:146:1:LightSensor_MeasureUseDMAMode	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/sensor/lightsensor.c:157:1:LightSensor_MeasureUsePollingMode	2
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/sensor/lightsensor.c:180:1:LightSensor_SendPacketRespond	1

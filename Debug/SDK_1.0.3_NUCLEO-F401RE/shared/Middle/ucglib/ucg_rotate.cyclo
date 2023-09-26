@@ -1,0 +1,10 @@
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_rotate.c:42:6:ucg_UndoRotate	2
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_rotate.c:56:13:ucg_rotate_90_xy	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_rotate.c:68:11:ucg_dev_rotate90	4
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_rotate.c:122:6:ucg_SetRotate90	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_rotate.c:134:13:ucg_rotate_180_xy	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_rotate.c:149:11:ucg_dev_rotate180	4
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_rotate.c:183:6:ucg_SetRotate180	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_rotate.c:195:13:ucg_rotate_270_xy	1
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_rotate.c:208:11:ucg_dev_rotate270	4
+D:/STM32/STM32_lib/SDK_1.0.3_NUCLEO-F401RE/shared/Middle/ucglib/ucg_rotate.c:248:6:ucg_SetRotate270	1

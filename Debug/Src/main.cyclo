@@ -1,0 +1,15 @@
+../Src/main.c:92:10:CalculatorTime	2
+../Src/main.c:103:13:AppInitCommon	1
+../Src/main.c:120:6:LoadConfiguration	1
+../Src/main.c:132:6:SetFontAndMarkInstalled	1
+../Src/main.c:139:6:AppStateManager	7
+../Src/main.c:163:13:SetStateApp	1
+../Src/main.c:168:20:GetStateApp	1
+../Src/main.c:173:6:DeviceStateMachine	13
+../Src/main.c:242:13:SaveFontToFlash	1
+../Src/main.c:251:13:parameteInit	1
+../Src/main.c:257:13:Task_Screen_Update	2
+../Src/main.c:268:5:main	1
+../Src/main.c:282:6:cancleTimer	2
+../Src/main.c:289:6:Screen_Scan	2
+../Src/main.c:299:6:setup	1
